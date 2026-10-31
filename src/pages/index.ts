@@ -1,0 +1,16 @@
+// ─── Pages barrel export ───
+
+export { OverviewPage } from './overview'
+export { LeadsPage } from './leads'
+export { LeadDetailsPage } from './lead-details'
+export { CampaignsPage } from './campaigns'
+export { AiAgentsPage } from './ai-agents'
+export { CallHistoryPage } from './call-history'
+export { CallDetailsPage } from './call-details'
+export { HandoffQueuePage } from './handoff-queue'
+export { OnboardingDetailsPage } from './onboarding-details'
+export { FollowupsPage } from './followups'
+export { TeamPage } from './team'
+export { AnalyticsPage } from './analytics'
+export { SettingsPage } from './settings'
+export { NotFoundPage } from './not-found'
